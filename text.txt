@@ -1,0 +1,5 @@
+Ecrire un programme qui demande à l'u lisateur d'introduire 10 nombres en ers.
+ Ces nombres sont enregistrés dans un tableau. Le programme demande ensuite à l'u lisateur quel nombre il veut supprimer. 
+ Si ce nombre est présent dans le tableau, le programme supprime ce nombre du tableau en décalant 
+tous les nombres suivants en ajoutant 0 comme dernier élément du tableau Enfin, 
+le programme affiche le tableau résultant
